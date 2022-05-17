@@ -10,6 +10,5 @@ public class BagTest {
         System.out.println(bag.toString());
 
 
-        git remote add origin https://github.com/GBWP2020/phoenix.git
     }
 }
